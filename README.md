@@ -72,7 +72,3 @@ Aplicativo React Native mostrando personagens de Demon Slayer.
 ## ✉️ Contato
 - LinkedIn: [Caio Cesar Rosa Nyimi](https://www.linkedin.com/in/caio-cesar-rosa-nyimi-2588a32b6)
 - Email: [caiocrnyimi@gmail.com](mailto:caiocrnyimi@gmail.com)
-
----
-
-> 💬 Estou sempre aberto a novas oportunidades, aprendizado e troca de conhecimentos. Vamos construir algo incrível juntos!
